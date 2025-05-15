@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Local development settings
+.local/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large data files (if needed, add exceptions with !)
+# *.csv
+# *.pkl
